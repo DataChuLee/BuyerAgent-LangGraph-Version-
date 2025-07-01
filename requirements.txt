@@ -1,0 +1,20 @@
+kiwipiepy == 0.20.1
+kiwipiepy_model == 0.20.0
+langchain == 0.3.7
+langchain-chroma == 0.2.2
+langchain-community == 0.3.5
+langchain-core == 0.3.52
+langchain-openai == 0.2.6
+langchain-teddynote == 0.3.40
+langgraph == 0.4.9
+langgraph-checkpoint == 2.1.0
+langgraph-prebuilt == 0.2.2
+langgraph-sdk == 0.1.70
+langsmith == 0.1.140
+lark == 1.2.2
+lark-parser == 0.12.0
+faiss-cpu==1.9.0
+langchain-text-splitters==0.3.2
+streamlit==1.40.0
+selenium==4.27.1
+webdriver-manager==4.0.2
